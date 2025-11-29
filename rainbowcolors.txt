@@ -9,3 +9,4 @@ Black is the eight color of rainbow.
 White is the next color
 mango is not a new color.
 creame is the next rainbows colors.
+Rainbow color format VIBGOUR
