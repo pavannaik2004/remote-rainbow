@@ -7,8 +7,5 @@ Indigo is the sixth color of the rainbow
 Violet is the seventh color of the rainbow
 Black is the eight color of rainbow.
 White is the next color
-<<<<<<< HEAD
 mango is not a new color.
-=======
 creame is the next rainbows colors.
->>>>>>> 3d2e8bfc914e94192742e11a14810de04f0623ca
